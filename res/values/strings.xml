@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTS 101</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="NIM">NIM = 183303030001</string>
+    <string name="Nama">Nama = Amir</string>
+    <string name="Jatah">Jatah = Aritmatika Dasar</string>
+    <string name="soal1">1. Kata orang saya orang ganteng benarkah, only true/false ?</string>
+    <string name="soal2">2. Kamu bodoh, yes or no ?</string>
+    <string name="soal3">3. Will you marry me :), only yes or no ?</string>
+    <string name="submit">Submit</string>
+    <string name="math1">1. Hasil Penjumlahan dari 3 + 3 adalah ?</string>
+    <string name="math2">2. Hasil Pengurangan dari 4 / 2 adalah?</string>
+    <string name="math3">3. Hasil Perkalian dari 3 x 3 adalah ?</string>
+    <string name="check">Check</string>
+    
+    <string-array name="menus">
+        <item >Profil</item>
+        <item >Mini Question</item>
+        <item >Math Question</item>
+        <item >Exit</item>
+    </string-array>
+
+    
+</resources>
