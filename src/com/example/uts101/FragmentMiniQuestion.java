@@ -17,7 +17,7 @@ public class FragmentMiniQuestion extends Fragment {
 	EditText ec;
 	Button bsubmit;
 	TextView thasil;
-	String[] answer = {"Karena penting untuk masa depan", "Cristiano Ronaldo", "Aku ada"};
+
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 		View rootView = inflater.inflate(R.layout.fragment_miniquestion, container, false);
